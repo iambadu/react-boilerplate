@@ -1,0 +1,2 @@
+## React Boilerplate
+This is a react boilerplate repository that combines the best of eslint, typescript and vitejs. The eslint config used is the airbnb base config. Suitable for all react web projects
